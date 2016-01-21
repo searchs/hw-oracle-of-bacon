@@ -23,7 +23,7 @@ class OracleOfBacon
     # YOUR CODE HERE
   end
 
-  def initialize(api_key='')
+  def initialize(api_key='38b99ce9ec87')
     # your code here
   end
 
